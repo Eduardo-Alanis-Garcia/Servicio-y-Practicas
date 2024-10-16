@@ -1,5 +1,5 @@
-# Servicio-y-Practicas
-Algunos codigos realizadas durante mis practicas y servicio social en Gobierno del Estado de Hidalgo
+# Servicio Social
+Algunos codigos realizadas durante el servicio social en Gobierno del Estado de Hidalgo
 
 **Cortar paginas** https://eduardo-alanis-garcia.github.io/Servicio-y-Practicas/Cortar-Paginas.html
 
